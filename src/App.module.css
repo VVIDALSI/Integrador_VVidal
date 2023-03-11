@@ -1,0 +1,10 @@
+.containerCardRick{
+    display: flex;
+    justify-content: center;
+}
+
+hr{
+    margin: 30px;
+    border-color: rgba(0, 213, 255, 0.734);
+    box-shadow: 0 0 20px rgba(0, 213, 255, 0.734);
+}

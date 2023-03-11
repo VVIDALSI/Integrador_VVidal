@@ -1,0 +1,28 @@
+.containerSearchBar{
+    margin: 30px;
+    display: flex;
+    justify-content: center;
+}
+
+input{
+    background-color: rgba(0, 128, 255, 0.5);
+    font-family: cursive;
+    color: rgba(0, 213, 255, 0.734);
+    border-radius: 10px 0 0 10px;
+    box-shadow: 0 0 20px rgba(0, 213, 255, 0.734);
+    outline: none;
+}
+
+button{
+    border-radius: 0 10px 10px 0;
+    border-color: rgba(0, 213, 255, 0.734);
+    color: rgba(0, 213, 255, 0.734);
+    box-shadow: 0 0 20px rgba(0, 213, 255, 0.734);
+    background-color: rgba(0, 128, 255, 0.314);;
+}
+
+button:hover{
+    color: blue;
+    background-color: aqua;
+    cursor: pointer;
+}
